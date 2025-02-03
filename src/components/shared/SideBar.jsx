@@ -37,7 +37,7 @@ const SideBar = () => {
       <Link to="/" className="hover:no-underline ">
         <div className="flex flex-row items-center pb-[20px]">
           <img src={img} alt="logo" className="w-[60px] h-[60px]" />
-          <p className="pl-3 text-white uppercase ">exoduss</p>
+          <p className="pl-3 text-white uppercase ">exodus</p>
         </div>
       </Link>
       <div className="flex-1">
