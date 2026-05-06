@@ -11,7 +11,7 @@ A modern, fully-functional **admin dashboard** for inventory and order managemen
 
 
 
-[Features](#features) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Usage](#usage) • [File Structure](#file-structure) • [Live Demo](#live-demo)
+[Features](#features) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Usage](#usage) • [File Structure](#file-structure) 
 
 </div>
 
