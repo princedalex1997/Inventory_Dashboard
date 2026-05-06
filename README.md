@@ -9,11 +9,31 @@
 
 A modern, fully-functional **admin dashboard** for inventory and order management. Built with **React 18**, **Tailwind CSS**, and **Chart.js**. Features real-time analytics, product management, customer tracking, and export capabilities.
 
+
+
 [Features](#features) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Usage](#usage) • [File Structure](#file-structure) • [Live Demo](#live-demo)
 
 </div>
 
 ---
+
+
+## 🌐 Live Demo
+
+Check out the live version:
+👉 [Admin Inventory Dashboard](https://inventory-dashboard-two.vercel.app/)
+
+---
+
+## 📸 Preview
+
+<img width="1413" height="811" alt="Screen Shot 2026-05-06 at 3 49 40 PM" src="https://github.com/user-attachments/assets/da6b1a11-3f08-4fa0-a66a-5d314380aabc" />
+<img width="1426" height="807" alt="Screen Shot 2026-05-06 at 3 49 21 PM" src="https://github.com/user-attachments/assets/0af64f40-9bce-41f6-9a36-03b882978dd8" />
+
+
+---
+
+
 
 ## ✨ Features
 
