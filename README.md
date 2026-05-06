@@ -524,7 +524,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 For support, questions, or suggestions:
 - Open an issue on GitHub
-- Email: your-email@example.com
+- Email: princedalex.dev@gmail.com
 - Create a discussion in the repository
 
 ---
